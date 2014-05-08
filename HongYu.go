@@ -2,13 +2,13 @@
 package main
 
 import (
-	"github.com/oldtree/Hong/conf"
+	"Hong/conf"
 	//	"Hong/models/Farm"
 	//"Hong/models/FileManage"
 	//"Hong/models/model"
 	//	"Hong/models/utils"
-	"github.com/oldtree/Hong/routers"
-	"github.com/oldtree/Hong/routers/FarmPath"
+	"Hong/routers"
+	"Hong/routers/FarmPath"
 	"fmt"
 	"github.com/astaxie/beego"
 )
